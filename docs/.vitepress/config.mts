@@ -9,16 +9,17 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'articles', link: '/markdown-examples' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'articles',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
           {text:"firstone",link:"/posts/first"},
+          {text:"ddd",link:"/posts/ddd"},
         ]
       }
     ],
