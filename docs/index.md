@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "bean blog"
-  text: "code share "
+  name: "bean "
+  text: "love code  "
   tagline: My great project tagline
   actions:
     - theme: brand
