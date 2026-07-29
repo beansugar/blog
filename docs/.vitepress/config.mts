@@ -9,7 +9,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'articles', link: '/markdown-examples' }
+      { text: 'articles', link: '/' }
     ],
 
     sidebar: [
